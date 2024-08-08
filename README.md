@@ -1,2 +1,2 @@
 # WebScript
-My Wet
+My Web
